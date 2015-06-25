@@ -1,0 +1,49 @@
+.picture_frame {
+    border-radius: 25px;
+    background: #99c06f;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.picture_container {
+    display: table;
+    width: 90%;
+    margin: 20px auto;
+}
+
+.picture_container span {
+    display: table-cell;
+    text-align: center;
+    width: 16%;
+}
+
+.picture_container img {
+    width: 100%;
+    max-width: 200px;
+    text-align: center;
+}
+
+.page-title {
+    float:left;
+    font-size:300%;
+    font-family: arial;
+    text-align: center;
+}
+
+.presented-by {
+    float:right;
+    vertical-align: text-top;
+    font-size:150%;
+    font-family: arial;
+}
+
+.logo {
+    max-width: 200px;
+}
+
+.header {
+}
+
+body {
+    background-color: lemonchiffon;
+}
+
